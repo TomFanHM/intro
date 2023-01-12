@@ -2,8 +2,8 @@
 
 # Welcome!!
 
-<h1 style="text-align: center; ">🍰Hello, I'm Tom</h1>
-<h2 style="text-align: center; ">🍍A Frontend Dev.</h2>
+<h1 align: "center">🍰Hello, I'm Tom</h1>
+<h2 align: "center">🍍A Frontend Dev.</h2>
 
 ## About me
 
