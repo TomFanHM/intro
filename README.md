@@ -1,7 +1,5 @@
 <!-- https://github.com/ikatyang/emoji-cheat-sheet -->
 
-# Welcome!!
-
 <h1 align="center">🍰Hello, I'm Tom</h1>
 <h2 align="center">🍍A Frontend Dev.</h2>
 
