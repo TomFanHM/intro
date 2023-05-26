@@ -6,7 +6,7 @@
 ## About me
 
 * I'm learning **Next.js**
-* I like **Programming🖥️ & Gaming 🕹️ & Chess♟️**
+* I like **Programming 🖥️ & Gaming 🕹️ & Chess♟️**
 
 ## Skills
 
