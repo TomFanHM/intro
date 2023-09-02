@@ -40,7 +40,7 @@
     width="50"
   />
 </a>
-<a href="https://www.w3schools.com/python/default.asp">
+<a href="https://threejs.org/">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg"
     width="50"
@@ -106,7 +106,7 @@
     width="50"
   />
 </a>
-<a href="https://www.opengl.org/">
+<a href="https://www.python.org/">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
     width="50"
