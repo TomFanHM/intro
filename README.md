@@ -22,7 +22,7 @@
 <p>
   <a href="https://www.w3schools.com/html/default.asp">
     <img
-      src="/icons/html.svg"
+      src="https://github.com/TomFanHM/TomFanHM/blob/main/icons/html.svg"
       width="50"
       class="icon"
     />
