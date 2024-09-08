@@ -1,7 +1,6 @@
 <!-- https://github.com/ikatyang/emoji-cheat-sheet -->
 
 <h1 align="center">🍰Hello, I'm Tom</h1>
-<h2 align="center">🍍A Frontend Dev.</h2>
 
 ## About me
 
@@ -34,7 +33,7 @@
     width="50"
   />
 </a>
-<a href="https://reactjs.org/">
+<a href="https://reactjs.org/" >
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     width="50"
@@ -42,8 +41,9 @@
 </a>
 <a href="https://threejs.org/">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
     width="50"
+    style="background-color: #ffffff;"
   />
 </a>
 <a href="https://github.com/">
@@ -117,7 +117,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
     width="50"
   />
-</a>
+ </a>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomFanHM&show_icons=true&hide_border=true) -->
 
