@@ -47,7 +47,7 @@
 </a>
 <a href="https://github.com/">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    src="https://github.com/tomfanhm/tomfanhm/blob/main/assets/github.svg"
     width="50"
   />
 </a>
