@@ -41,7 +41,7 @@
 </a>
 <a href="https://threejs.org/">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
+    src="https://github.com/tomfanhm/tomfanhm/blob/main/assets/three.svg"
     width="50"
   />
 </a>
